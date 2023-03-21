@@ -10,9 +10,9 @@ public class Constants {
     /**
      * 方式一： 填好APP_ID等参数，进入激活界面激活
      */
-    public static final String APP_ID = "G9JBXRMVHkj536DFqumrk5APKwypyNcG7npHxeLR3xmg";
-    public static final String SDK_KEY = "DizDdHzcEqfe9iaVxoJ2TSVSho4Hyve8TCvkC7wnLn6U";
-    public static final String ACTIVE_KEY = "85F1-11EE-C133-K3LA";
+    public static final String APP_ID = "8BwekrCEpjxLbUUfVZKmAVt5VP95VJuDv9ZBGdNGt8bG";
+    public static final String SDK_KEY = "Hfo3Win9CMTj3mGcnmmdx8u31kaJCnDG8tQMrW55xkue";
+    public static final String ACTIVE_KEY = "85Q1-11G6-N11L-U5GC";
     /**
      * 方式二： 在激活界面读取本地配置文件进行激活
      *
